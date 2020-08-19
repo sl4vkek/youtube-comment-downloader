@@ -1,5 +1,5 @@
 # youtube-comment-downloader
-Simple script for downloading Youtube comments without using the Youtube API. ~~The output is in line delimited JSON~~ parseable JSON.
+Simple script for downloading Youtube comments without using the Youtube API. The output is in ~~line delimited~~ parseable JSON.
 ### Dependencies
 * Python 3.7+
 * requests
